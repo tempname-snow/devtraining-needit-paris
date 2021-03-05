@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update>
+    <sys_ui_form_sections form_id="9ef0bd442f32201022d355f62799b66e" sys_domain="global" table="x_58872_needit_needit" version="3">
+        <sys_ui_form_section action="INSERT_OR_UPDATE">
+            <position>0</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2021-03-05 04:27:01</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>52f0bd442f32201022d355f62799b672</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_overrides/>
+            <sys_ui_form display_value="x_58872_needit_needit" name="x_58872_needit_needit" sys_domain="global" view="9f7a5e472f22201022d355f62799b689">9ef0bd442f32201022d355f62799b66e</sys_ui_form>
+            <sys_ui_section caption="NULL" display_value="" name="x_58872_needit_needit" sys_domain="global" view="9f7a5e472f22201022d355f62799b689">5f7a5e472f22201022d355f62799b68d</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2021-03-05 04:27:01</sys_updated_on>
+        </sys_ui_form_section>
+        <sys_ui_form_section action="INSERT_OR_UPDATE">
+            <position>1</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2021-03-05 04:27:01</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>92f0bd442f32201022d355f62799b698</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_overrides/>
+            <sys_ui_form display_value="x_58872_needit_needit" name="x_58872_needit_needit" sys_domain="global" view="9f7a5e472f22201022d355f62799b689">9ef0bd442f32201022d355f62799b66e</sys_ui_form>
+            <sys_ui_section caption="Log" display_value="Log" name="x_58872_needit_needit" sys_domain="global" view="9f7a5e472f22201022d355f62799b689">def0bd442f32201022d355f62799b66c</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2021-03-05 04:27:01</sys_updated_on>
+        </sys_ui_form_section>
+        <sys_ui_form_section action="INSERT_OR_UPDATE">
+            <position>2</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2021-03-05 04:28:38</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>c251b1842f32201022d355f62799b6bc</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_overrides/>
+            <sys_ui_form display_value="x_58872_needit_needit" name="x_58872_needit_needit" sys_domain="global" view="9f7a5e472f22201022d355f62799b689">9ef0bd442f32201022d355f62799b66e</sys_ui_form>
+            <sys_ui_section caption="Statistics" display_value="Statistics" name="x_58872_needit_needit" sys_domain="global" view="9f7a5e472f22201022d355f62799b689">0651b1842f32201022d355f62799b6b9</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2021-03-05 04:28:38</sys_updated_on>
+        </sys_ui_form_section>
+        <sys_ui_form action="INSERT_OR_UPDATE">
+            <name>x_58872_needit_needit</name>
+            <roles/>
+            <sys_class_name>sys_ui_form</sys_class_name>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2021-03-05 04:27:00</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>9ef0bd442f32201022d355f62799b66e</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_name>x_58872_needit_needit</sys_name>
+            <sys_overrides/>
+            <sys_package display_value="NeedIt" source="x_58872_needit">6ead8e780f603200cd674f8ce1050ed1</sys_package>
+            <sys_policy/>
+            <sys_scope display_value="NeedIt">6ead8e780f603200cd674f8ce1050ed1</sys_scope>
+            <sys_update_name>sys_ui_form_sections_9ef0bd442f32201022d355f62799b66e</sys_update_name>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2021-03-05 04:27:00</sys_updated_on>
+            <sys_user/>
+            <view display_value="NeeditNewView" name="NeeditNewView">9f7a5e472f22201022d355f62799b689</view>
+            <view_name/>
+        </sys_ui_form>
+    </sys_ui_form_sections>
+</record_update>
